@@ -2,20 +2,12 @@
 ![A passionate CS student from Bangladesh](https://github.com/codewithtanvir/codewithtanvir/blob/main/Profile%20Banner.png?raw=true)
 
 Hello there! 👋 I'm a dedicated and enthusiastic computer science student hailing from the vibrant land of Bangladesh. My journey in the world of technology began with a curious mind and a strong desire to unravel the mysteries of code. 🌐💻
-
-As an avid learner, I constantly seek to expand my horizons by delving into the ever-evolving realms of software development, algorithms, and cutting-edge technologies. My passion for problem-solving fuels my commitment to crafting elegant and efficient solutions that address real-world challenges.
-
-I thrive in collaborative environments, valuing the power of teamwork and the diverse perspectives it brings to the table. I believe that by working together, we can create truly transformative innovations that have a positive impact on our society and beyond.
-
-My GitHub repository is a reflection of my journey, featuring a collection of projects that showcase my growth and proficiency in various programming languages, frameworks, and tools. From web applications that simplify everyday tasks to intricate algorithmic implementations that tickle the mind, each project represents a step forward in my ongoing adventure.
-
-When I'm not engrossed in lines of code, you can find me exploring the outdoors, indulging in a good book, or sharing my knowledge with fellow enthusiasts through workshops and online platforms. I strongly believe in giving back to the community that has nurtured my learning.
-
-Feel free to join me on this exciting expedition as we navigate the fascinating world of technology together. Whether you're a fellow student, a developer, or just someone who loves innovation, I welcome you to explore my GitHub and be a part of this incredible journey! 🚀🔗
+## Education
+- Studies Bachelor of Science in Computer Science & Engineering at American International University-Bangladesh
 
 Skills: C++ / PYTHON / HTML / CSS
 
-- 🔭 I’m currently working on Java 
+
 - 🌱 I’m currently learning Java 
 - 📫 How to reach me: Email: tanvirrahmanofficial00@gmail.com 
 - 😄 Pronouns: He/Him 
