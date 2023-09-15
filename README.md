@@ -1,4 +1,3 @@
-### Hi there 👋, my name is Tanvir Rahman
 #### A passionate CS student from Bangladesh
 ![A passionate CS student from Bangladesh](https://github.com/codewithtanvir/codewithtanvir/blob/main/Profile%20Banner.png?raw=true)
 
