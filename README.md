@@ -11,7 +11,6 @@ I am a passionate computer science student with a strong interest in software de
 ## Technical Skills
 - **Programming Languages**: Python, Java, C++
 - **Web Development**: HTML, CSS
-
 - **Other Skills**: Microsoft Word, Microsoft Excel, Microsoft PowerPoint.
   
 ## Interests
