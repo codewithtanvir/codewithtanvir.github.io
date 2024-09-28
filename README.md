@@ -12,9 +12,10 @@ Hey there! I'm a passionate computer science student from Bangladesh with a stro
 
 ## Technical Skills
 
-- **Programming Languages**: Python, Java, C++
-- **Web Development**: HTML, CSS
-- **Other Skills**: Google Workspace, Microsoft Office
+- **Programming Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+- **Web Development**: ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- **Other Skills**: ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=google&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
+
 
 ## Interests
 
