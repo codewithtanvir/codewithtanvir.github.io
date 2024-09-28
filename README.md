@@ -31,5 +31,5 @@ Feel free to connect with me on GitHub or reach out via email. I'm always open t
 
 Let's code together and make the digital world a better place!
 
-[GitHub](https://github.com/codewithtanvir) | [LinkedIn](https://www.linkedin.com/in/muhammud-tanvir-rahman/) | [Instagram](https://www.instagram.com/hey___tanvir/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/codewithtanvir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammud-tanvir-rahman/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/hey___tanvir/)
 
